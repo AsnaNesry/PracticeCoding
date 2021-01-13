@@ -1,0 +1,7 @@
+package enumexample;
+
+public enum Zodiac {
+
+	ARIES, TAURUS, GEMINI, CANCER, LEO, VIRGO, LIBRA, SCORPIO, SAGITTARIUS, CAPRICON, AQUARIUS, PISCERS
+
+}
